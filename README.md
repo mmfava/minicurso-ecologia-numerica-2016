@@ -47,7 +47,7 @@ minicurso-ecologia-numerica/
     ```
 3. **Navegue pelos diretórios** para acessar as apresentações em PDF e scripts R correspondentes a cada dia do minicurso.
 
-## Autora
+## Autoras
 
 [Marília Melo Favalesso](https://www.mmfava.com) <br>
 Thais Sobjak
